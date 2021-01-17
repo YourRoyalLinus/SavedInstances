@@ -80,4 +80,9 @@ SI.WorldBosses = {
   [9005] = { quest=60542, name=L["Nathanos Blightcaller"], expansion=7, level=50 }, -- Nathanos Blightcaller
   -- The Maw
   [9006] = { quest=63414, name=L["Wrath of the Jailer"], expansion=8, level=60 }, -- Wrath of the Jailer
+
+  [9007] = { quest="63198", name=L["Hunt: Death Elemental"], expansion=8, level=60},
+  [9008] = { quest="63199", name=L["Hunt: Winged Soul Eaters"], expansion=8, level=60},
+  [9009] = { quest="63194", name=L["Hunt Soul Eaters"], expansion=8, level=60},
+  [9010] = { quest="63433", name=L["Hunt: Shadehounds"], expansion=8, level=60},
 }
